@@ -8,7 +8,7 @@ msgstr ""
 "Language: pt\n"
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2026-11-05 07:46\n"
+"PO-Revision-Date: 2026-11-06 00:59\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -2051,7 +2051,7 @@ msgstr "Erro no formulário"
 
 #: src/components/forms/ApiForm.tsx:702
 msgid "An unknown error occurred. Refer to the browser console for details."
-msgstr ""
+msgstr "Ocorreu um erro desconhecido. Consulte o console do navegador para mais detalhes."
 
 #: src/components/forms/ApiForm.tsx:756
 msgid "Submit form"
@@ -11248,7 +11248,7 @@ msgstr "Localização pai"
 #: src/tables/stock/StockItemTable.tsx:325
 #: src/tables/stock/StockLocationTable.tsx:56
 msgid "Exclude from Stock"
-msgstr ""
+msgstr "Excluir do cálculo de estoque"
 
 #: src/pages/stock/StockLocationDetailsPanel.tsx:89
 #: src/tables/stock/StockLocationTable.tsx:65
@@ -14633,7 +14633,7 @@ msgstr "Exibir itens com localização externa"
 
 #: src/tables/stock/StockItemTable.tsx:326
 msgid "Show items in a location excluded from stock calculations"
-msgstr ""
+msgstr "Mostrar itens em um local excluído dos cálculos de estoque"
 
 #: src/tables/stock/StockItemTable.tsx:362
 #~ msgid "Include stock items for variant parts"
@@ -14803,7 +14803,7 @@ msgstr "Exibir locais externos"
 
 #: src/tables/stock/StockLocationTable.tsx:57
 msgid "Show locations excluded from stock calculations"
-msgstr ""
+msgstr "Mostrar locais excluídos dos cálculos de estoque"
 
 #: src/tables/stock/StockLocationTable.tsx:61
 msgid "Has location type"

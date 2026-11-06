@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: inventree\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-05 03:18+0000\n"
-"PO-Revision-Date: 2026-11-05 03:23\n"
+"PO-Revision-Date: 2026-11-06 00:59\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -9583,7 +9583,7 @@ msgstr "Local externo"
 
 #: stock/api.py:769 stock/models.py:218
 msgid "Exclude from Stock"
-msgstr ""
+msgstr "Excluir do cálculo de estoque"
 
 #: stock/api.py:868
 msgid "Consumed by Build Order"
@@ -9720,7 +9720,7 @@ msgstr "Este é um local de estoque externo"
 
 #: stock/models.py:220
 msgid "If checked, stock items in this location will not be counted in available stock"
-msgstr ""
+msgstr "Se marcado, os itens de estoque neste local não serão contados no estoque disponível"
 
 #: stock/models.py:227
 msgid "Location type"
